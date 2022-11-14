@@ -1,6 +1,6 @@
 # Carboard
 
-This app is productivity app that allows you to manipulate elements inside a infinite board. Elements can range from simple text, to todo-lists and eiter file.
+This app is productivity app that allows you to manipulate elements inside a infinite board. Elements can range from simple text, to todo-lists and even files.
 
 It can be used as a simple tool for organizing your life, as well as providing advanced feature for orgnanizing complex projects with collaboration.
 
